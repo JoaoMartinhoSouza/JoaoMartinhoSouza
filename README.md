@@ -1,6 +1,6 @@
 ## Olá e seja bem-vindo ao meu perfil no GitHub!
 
-Não sou muito ativo por aqui, mas mantenho este espaço para pequenos projetos ocasionais e para hospedar a minha [página pessoal](https://joaomartinhosouza.github.io).
+Eu mantenho este espaço para pequenos projetos ocasionais e para hospedar a minha [página pessoal](https://joaomartinhosouza.github.io).
 
 Este perfil não é um portfólio; todos os repositórios contêm projetos pessoais ou acadêmicos. O mais significativo é o [Orbe](https://github.com/JoaoMartinhoSouza/orbe), que eu escrevi como o meu trabalho de conclusão de curso da faculdade.
 
