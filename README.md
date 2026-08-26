@@ -6,6 +6,6 @@ Este perfil não é um portfólio; todos os repositórios contêm projetos pesso
 
 ### Contato
 
-- Nome: João Martinho Souza
 - Email:  [souza.joaomartinho@gmail.com](mailto:souza.joaomartinho@gmail.com)
+- [Telegram](https://t.me/JoaoMartinhoSouza)
 - Chave PGP: `22C2 EAEC 8504 FCC7 749D 2D80 F0F8 6C40 AA95 3D74`
