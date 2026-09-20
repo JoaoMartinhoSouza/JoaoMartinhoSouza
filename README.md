@@ -8,4 +8,4 @@ Este perfil não é um portfólio; todos os repositórios contêm projetos pesso
 
 - Nome: João Martinho Souza
 - Email:  [souza.joaomartinho@gmail.com](mailto:souza.joaomartinho@gmail.com)
-- Chave PGP: `22C2 EAEC 8504 FCC7 749D 2D80 F0F8 6C40 AA95 3D74`
+- Chave PGP: `A160 BB22 5EB2 021F AF9E E6F9 18C7 E363 69EE 6517`
